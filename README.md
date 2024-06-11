@@ -1,2 +1,16 @@
 # billionaire-analysis
-A comprehensive analysis of global billionaires, exploring their net worth, origins of wealth, and various economic indicators using Python. This repository includes data visualizations, statistical analysis to uncover insights into the world's wealthiest individuals.
+##Overview
+This project is a comprehensive Exploratory Data Analysis (EDA) of billionaire statistics. The analysis is conducted in a Jupyter Notebook and aims to uncover insights and patterns within the data. The project includes data cleaning, visualization, and statistical analysis to understand the demographics, industries, and geographical distribution of billionaires.
+
+##File Structure
+Billionaire's Statistics EDA.ipynb: The main Jupyter Notebook containing the EDA process, including data loading, cleaning, visualization, and analysis.
+
+##Prerequisites
+Make sure you have the following installed:
+
+####Python 3.x
+####Jupyter Notebook
+####Required Python libraries (you can install them using the requirements section below)
+
+
+
